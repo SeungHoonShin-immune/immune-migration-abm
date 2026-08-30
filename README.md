@@ -209,13 +209,7 @@ python run_replicates_pneumococcus.py     # 각 조건 5회, 감염 종식까지
 17. Parr, A.; Anderson, N. R.; Hammer, D. A. A Simulation of the Random and Directed Motion of Dendritic Cells in Chemokine Fields. *PLoS Comput. Biol.* **2019**, *15* (10), e1007295.
 18. Lu, Y. J.; Gross, J.; Bogaert, D.; Finn, A.; et al. Interleukin-17A Mediates Acquired Immunity to Pneumococcal Colonization. *PLoS Pathog.* **2008**, *4* (9), e1000159.
 
----
 
-## 한계
-
-- 본 연구는 컴퓨터 시뮬레이션에 기반하므로 실제 생체 반응을 직접 입증하는 것은 아니며, 선행 연구의 관찰과 일관된 결과를 제시하는 데 의의가 있다.
-- 각 조건 5회 시행으로, 표본 수가 각 5회일 때 Mann-Whitney U 검정의 양측 최소 p값은 0.0079이다.
-- 신호물질의 확산계수와 반감기 등 일부 파라미터는 정성적 기전만 문헌에 근거하고 정량값은 모형 가정값이다.
 
 ---
 
